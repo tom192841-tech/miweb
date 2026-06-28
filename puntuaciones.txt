@@ -1,0 +1,3 @@
+Aragorn,1500
+Gandalf,2800
+Legolas,1950
